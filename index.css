@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+}
+.container{
+    text-align: 10px;
+    
+}
+
+.container a {
+    background-color: rgb(0, 4, 240);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 50px;
+   
+}

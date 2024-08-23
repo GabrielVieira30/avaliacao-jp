@@ -1,0 +1,63 @@
+html, body {
+    margin: 0; 
+    padding: 0;
+}
+
+
+header {
+    background-color: brown;
+    padding: 15px;
+    color: aliceblue;
+    text-align: center;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+.btn {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: cadetblue;
+    padding: 5px 20px;
+    border-radius: 50px;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color: bisque;
+
+}
+
+.container {
+    padding: 16px;
+    background-color: firebrick;
+
+}
+
+section{
+    background-color: aliceblue;
+    padding: 5px, 16px, 16px, 16px;
+    border-radius: 5px;
+    margin: 16px 0;
+    box-shadow: 0 2px 4px rgba(0,0, 0, 0);
+}
+
+
+.last{
+margin-bottom: 50px;
+}
+
+h2{
+    border-bottom: 2px salmon;
+    padding-bottom: 8px;
+}
+
+footer{
+    background-color: blueviolet;
+    padding: 5px;
+    text-align: center;
+    color: aquamarine;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
