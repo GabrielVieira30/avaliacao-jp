@@ -27,3 +27,6 @@ git branch -D <branchname>: Exclui um ramo (branch) específico do repositório.
 git fetch: Busca atualizações do repositório remoto sem aplicar mudanças.
 
 git pull: Busca e aplica atualizações do repositório remoto ao seu repositório local.
+
+
+
